@@ -181,14 +181,19 @@ endmodule
 OUTPUT:
 
 Full Adder
+![full adder](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/67c15795-e99e-4577-964b-5e594d5491dc)
 
 Full Subractor
+![full subractor](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/b57faf90-78fe-4fc3-ab79-dc909d37e368)
 
 Half Adder
+![half adder](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/954088fc-3af5-47ab-bb47-1407ed4d4c0e)
 
 Half Subractor
+![half subractor](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/7df075ba-e93c-444d-9d8e-642120f44ad4)
 
 Logic Gates
-
+![logic gates](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/06738fdd-56e0-4d76-8323-be721962f252)
 
 Ripple Carry Adder
+![ripple carry adder](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/b5b54f59-b2ed-4929-a6c0-ec411a8be469)
