@@ -51,7 +51,6 @@ Full Subtractor:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/d66f874b-c1f2-44b3-a035-7149b56430c1)
 
 
-
 8 Bit Ripple Carry Adder
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7385a408-40a5-4203-8050-b72818622d79)
@@ -201,21 +200,27 @@ OUTPUT:
 
 Full Adder
 ![full adder](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/67c15795-e99e-4577-964b-5e594d5491dc)
+<img width="954" alt="full adder" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/7e069dfe-1a96-46b8-a7f7-7ef0a8ea9e92">
 
 Full Subractor
 ![full subractor](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/b57faf90-78fe-4fc3-ab79-dc909d37e368)
+<img width="962" alt="full subractor" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/94d1feb1-71e1-4f65-8baa-7d7d5ac090f1">
 
 Half Adder
 ![half adder](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/954088fc-3af5-47ab-bb47-1407ed4d4c0e)
+<img width="962" alt="half adder" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/12033a0e-30f7-4ccc-97c8-807177cfb018">
 
 Half Subractor
 ![half subractor](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/7df075ba-e93c-444d-9d8e-642120f44ad4)
+<img width="962" alt="half sub" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/def7bc86-1022-429a-af60-2535f83e51fd">
 
 Logic Gates
 ![logic gates](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/06738fdd-56e0-4d76-8323-be721962f252)
+<img width="962" alt="logic gates" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/a02904ff-83db-4015-a564-912d7a9948b9">
 
 Ripple Carry Adder
 ![ripple carry adder](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/b5b54f59-b2ed-4929-a6c0-ec411a8be469)
+<img width="956" alt="ripple carry adder" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/65a64bfe-c308-4d92-ba3e-fea19e4e90c1">
 
 result:
 
