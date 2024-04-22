@@ -204,7 +204,7 @@ Full Adder
 
 Full Subractor
 ![full subractor](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/b57faf90-78fe-4fc3-ab79-dc909d37e368)
-<img width="962" alt="full subractor" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/94d1feb1-71e1-4f65-8baa-7d7d5ac090f1">
+<img width="962" alt="full subractor" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/9d295e28-3572-49a3-b675-9fbfc2b2a603">
 
 Half Adder
 ![half adder](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/954088fc-3af5-47ab-bb47-1407ed4d4c0e)
@@ -212,7 +212,7 @@ Half Adder
 
 Half Subractor
 ![half subractor](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/7df075ba-e93c-444d-9d8e-642120f44ad4)
-<img width="962" alt="half sub" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/def7bc86-1022-429a-af60-2535f83e51fd">
+<img width="962" alt="half sub" src="https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/ef245f5e-4f76-46f8-b722-d5d0950ed929">
 
 Logic Gates
 ![logic gates](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/06738fdd-56e0-4d76-8323-be721962f252)
