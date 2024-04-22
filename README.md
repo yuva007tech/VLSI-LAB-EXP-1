@@ -216,3 +216,7 @@ Logic Gates
 
 Ripple Carry Adder
 ![ripple carry adder](https://github.com/yuva007tech/VLSI-LAB-EXP-1/assets/123287599/b5b54f59-b2ed-4929-a6c0-ec411a8be469)
+
+result:
+
+Thus the Simulation of Logic Gates ,Adders and Subtractors is done and verified.
