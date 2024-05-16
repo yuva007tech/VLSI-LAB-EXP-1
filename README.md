@@ -2,7 +2,7 @@
 
 AIM: To simulate and synthesis Logic Gates,Adders and Subtractor using Xilinx ISE.
 
-APPARATUS REQUIRED: Xilinx 14.7 Spartan6 FPGA
+APPARATUS REQUIRED:  Vivado 2023.1
 
 PROCEDURE: 
 
@@ -23,6 +23,7 @@ PROCEDURE:
 8. Run Simulation: Start the simulation by clicking on the "Run" button in the simulation window.
 
 9. View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
+
 
 Logic Diagram :
 
